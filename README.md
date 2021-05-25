@@ -1,0 +1,1 @@
+Biblioteca não oficial de integração com o serviços da [Biscoint](https://biscoint.io/).
